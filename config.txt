@@ -1,11 +1,11 @@
-<<<<<<< HEAD
+
 function lazygit() {
     git add .
     git commit -a -m "$1"
     git push
 }
-=======
+
 name = Valentin;
 size = 100;
 email = valentin.v1997@gmail.com;
->>>>>>> 2193277f4c550d976fd48431f43d5e03ca709f06
+
