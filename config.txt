@@ -1,5 +1,15 @@
+
+function lazygit() {
+    git add .
+    git commit -a -m "$1"
+    git push
+}
+
 name = Valentin;
 size = 100;
 email = valentin.v1997@gmail.com;
 
+<<<<<<< HEAD
 This shall make a conflict HAHAHAHAHA
+=======
+>>>>>>> 30c05f1fc99679ac552fae9e97b43d0653f14d62
